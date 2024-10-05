@@ -41,7 +41,7 @@ Crear una aplicación en Flutter que permita a los usuarios autenticarse usando 
 
 1. Clona este repositorio:
    ```bash
-   git clone <repos>
+   git clone https://github.com/gazalabmx/practical-test
 2. Clona este repositorio:
    Genera una rama con tu nombre para realizar el proyecto
 3. Una vez terminado, integra tus cambios en tu rama al repositorio.
