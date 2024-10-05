@@ -13,7 +13,7 @@ Crear una aplicación en Flutter que permita a los usuarios autenticarse usando 
 
 ### 2. API REST:
 - Utilizar una API REST gratuita para obtener información y mostrarla en la aplicación.
-- [PokeAPI](https://pokeapi.co/api/v2/pokemon?limit=1000&offset=0): 
+- [PokeAPI lista](https://pokeapi.co/api/v2/pokemon?limit=1000&offset=0): 
   - Realizar una petición GET a la API para obtener los datos y mostrarlos en una lista o tarjeta.
   - Asegurarse de manejar correctamente los errores en las peticiones.
 
@@ -24,7 +24,7 @@ Crear una aplicación en Flutter que permita a los usuarios autenticarse usando 
   - Una vez autenticado, el usuario será redirigido a la pantalla principal, donde se mostrarán los datos obtenidos de la API en una lista.
 - **Pantalla Detalle**: 
   - A partir del elemento seleccionado de la lista, la aplicación navegará al detalle del mismo.
-    - [PokeAPI](https://pokeapi.co/api/v2/pokemon/bulbasaur):  Debe mostrar:
+    - [PokeAPI detalle](https://pokeapi.co/api/v2/pokemon/bulbasaur):  Debe mostrar:
       - Nombre del Pokémon.
       - Habilidades.
       - Movimientos.
@@ -34,3 +34,17 @@ Crear una aplicación en Flutter que permita a los usuarios autenticarse usando 
 
 ### 4. Gestión de estados:
 - Utilizar el paquete `provider` o `riverpod` para la gestión de estado en la aplicación.
+
+---
+
+## Instrucciones para ejecutar el proyecto
+
+1. Clona este repositorio:
+   ```bash
+   git clone <repos>
+2. Clona este repositorio:
+   Genera una rama con tu nombre para realizar el proyecto
+3. Una vez terminado, integra tus cambios en tu rama al repositorio.
+
+
+##¡Que la Fuerza te acompañe!
